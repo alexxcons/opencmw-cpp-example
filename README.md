@@ -13,7 +13,7 @@ build/src/MajordomoRest_example
 ```
 ### Building against local opencmw-cpp
 
-Note: If you just want to implement a service, it will not be required and brings no benefit to checkout opencmw-cpp separatly and build against it.
+Note: If you just want to implement a service, it will not be required and brings no benefit to checkout and build opencmw-cpp separatly.
 
 There are environment variables which optionally can be used to point to your checkout of libfnt and/or opencmw-cpp.
 (The same works for opencmw's dependencies as it internally uses fetchContent as well)
